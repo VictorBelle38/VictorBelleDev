@@ -1,0 +1,10 @@
+rule samtools_sort:
+    input:
+        "mapped/{sample}.bam"
+    output:
+        "mapped/{sample}.sorted.bam"
+    params:
+        "-m 4G"
+    threads: 8
+    wrapper:
+        "https://github.com/snakemake/snakemake-wrappers/raw/0.2.0/bio/samtools/sort"
