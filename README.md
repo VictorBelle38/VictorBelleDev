@@ -6,7 +6,7 @@
 #### Main Stack:
 
 ![PYTHON](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
+![PowerBI](https://camo.githubusercontent.com/15365cbbe68366fd752093cc35abb8898c80c8ac24758b3a197c8f215661864d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f77657225323042492d626c61636b3f7374796c653d706c6173746963266c6f676f3d506f7765722d4249)&nbsp;
 ![ShellScript](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
 ![Docker](https://camo.githubusercontent.com/4583799dc96c796167a832c8e77dcd807c401d39e32f27522668eb49efc5bf1f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446f636b65722d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d446f636b6572)&nbsp;
 
