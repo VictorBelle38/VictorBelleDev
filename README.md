@@ -11,6 +11,9 @@
 ![SS](https://img.shields.io/badge/logo-powerbi-white?logo=powerbi)&nbsp;
 
 
+![ME](https://github-readme-stats.vercel.app/api?VictorBelleDev={VictorBelleDev}&theme=blue-green)&nbsp;
+
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Secondary Stack:
