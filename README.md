@@ -1,5 +1,6 @@
+## About Me
 
-
+Hello! My name is Victor, I'm a Computer Engineering student currently working in technical support. Despite that, I'm diving into the world of Python programming and seeking knowledge in data analysis and artificial intelligence. I'm excited to learn and grow in this ever-evolving field!
 
 ## My Skills
 
