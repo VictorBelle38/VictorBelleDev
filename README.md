@@ -5,9 +5,8 @@
 
 #### Main Stack:
 
-![Python](https://camo.githubusercontent.com/c13a4f09d60025115ab08338417d32b41cede48e68f7c0381dc2996c92bca2c4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d507974686f6e)&nbsp;
-![PowerBI](https://camo.githubusercontent.com/15365cbbe68366fd752093cc35abb8898c80c8ac24758b3a197c8f215661864d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f77657225323042492d626c61636b3f7374796c653d706c6173746963266c6f676f3d506f7765722d4249)&nbsp;
-![Docker](https://camo.githubusercontent.com/4583799dc96c796167a832c8e77dcd807c401d39e32f27522668eb49efc5bf1f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446f636b65722d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d446f636b6572)&nbsp;
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)&nbsp;
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)&nbsp;
 
 
 
@@ -15,20 +14,20 @@
 
 #### Secondary Stack:
 
-![Jupiter](https://camo.githubusercontent.com/16fc174159e650662872526c9067c3d1868d84905b5a7b5fd477fe8335636061/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a7570797465722d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d4a757079746572)&nbsp;
 
 #### Studying in this moment:
-![Docker](https://camo.githubusercontent.com/4583799dc96c796167a832c8e77dcd807c401d39e32f27522668eb49efc5bf1f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446f636b65722d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d446f636b6572)&nbsp;
+
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 
 #### Databases:
 
 ![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
 #### Workstation Tools:
-![Github](https://camo.githubusercontent.com/17e7022caa958ea74bb65bb090ba5142743003470503c711c14eb5939e35d24d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769746875622d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d476974687562)&nbsp;
-![Git](https://camo.githubusercontent.com/9f4e80259aed0818a1bf38e5c342c6220f93f84e95c90e1bb12eb9fff1a4818b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d476974)&nbsp;
-![VScode](https://camo.githubusercontent.com/6871d93fe6eb94ecbe3e5cd5ff2b108f0917a0fef95faa045b55637615f04f4a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5653253230436f64652d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d76697375616c2d73747564696f2d636f6465)&nbsp;
-![Linux](https://camo.githubusercontent.com/38c6ce429642cc9bacd33d3dceffbdf05e1af7a305cc401e71827aa25d0839f7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e75782d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d4c696e7578)&nbsp;
+![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![VScode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
 
 &nbsp;
 &nbsp;
