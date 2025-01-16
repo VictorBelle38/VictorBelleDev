@@ -1,47 +1,43 @@
-## About Me
+# Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-Hello! My name is Victor, I'm a Computer Engineering student currently working in technical support. Despite that, I'm diving into the world of Python programming and seeking knowledge in data analysis and artificial intelligence. I'm excited to learn and grow in this ever-evolving field!
+<!-- Banner Image -->
+<img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/python-2.gif" width="100%">
 
-## My Skills
+## 🚀 About Me
+Data Scientist in development, passionate about transforming data into valuable insights. Focused on data analysis, visualization, and machine learning.
 
-#### Main Stack:
+## 💻 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-%23E5EE0.svg?style=for-the-badge&logo=seaborn&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)&nbsp;
+## 📊 Core Skills
+- **Data Analysis**: Experience with Pandas and NumPy for data manipulation and analysis
+- **Visualization**: Creating impactful visualizations using Matplotlib and Seaborn
+- **Database**: Knowledge in SQL for data querying and manipulation
+- **Machine Learning**: Learning ML algorithms and techniques with scikit-learn
 
+## 📈 Sample Visualizations
+<!-- Example of data visualization -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/giphy.gif" width="480" >
+</div>
 
+## 🌱 Currently Learning
+- Machine Learning
+- Deep Learning
+- Advanced Statistics
+- Big Data Technologies
 
+## 📫 Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorbelle38)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorbelle38@gmail.com)
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-#### Secondary Stack:
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-
-#### Studying in this moment:
-
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
-
-#### Databases:
-
-![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-
-#### Workstation Tools:
-![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![VScode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
-
-&nbsp;
-&nbsp;
-
-## Contacts:
-
-<div> 
-<a href="https://www.instagram.com/victorbelle7" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<a href = "mailto:victorbelle38@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/victor-belle-423082269/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-
-
-  
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+---
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/analytics.gif" width="300px">
+</div>
